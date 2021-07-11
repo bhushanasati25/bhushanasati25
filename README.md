@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhushan Asati</h1>
-<h3 align="center">I’m Python Developer | AI | ML | DL Researcher</h3>
+<h3 align="center">I’m Python Developer | AI | ML | DL Enthusiast.</h3>
 
 - I’m currently pursuing Bachelor of Engineering in Computer Engineering at Savitribai Phule Pune University
 - Strong intuitions come with strong applied knowledge.
