@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhushan Asati</h1>
 <h3 align="center">I’m Python Developer | AI | ML | DL Enthusiast.</h3>
 
-- I’m currently pursuing Bachelor of Engineering in Computer Engineering at Savitribai Phule Pune University
+- I’m currently pursuing a Master of Science in Computer Science at Stevens Institute of Technology.
 - Strong intuitions come with strong applied knowledge.
-- Disciplined, Time bound, works out everything will full dedication and focus.
+- Disciplined, time-bound, and works out everything with full dedication and focus.
 - Deep Learning and Machine Learning Enthusiast.
 - In love with Computer Programming and Algorithms.
 - Constant, consistent learner for life.
