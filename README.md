@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhushan Asati</h1>
-<h3 align="center">I’m Python Developer | AI | ML | DL Enthusiast.</h3>
+<h3 align="center">I’m Software Engineer | AI | ML | DL Enthusiast.</h3>
 
 - I’m currently pursuing a Master of Science in Computer Science at Stevens Institute of Technology.
 - Strong intuitions come with strong applied knowledge.
