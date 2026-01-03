@@ -8,7 +8,7 @@
 - In love with Computer Programming and Algorithms.
 - Constant, consistent learner for life.
 
-- 👨‍💻 Portfolio Link [https://bhushanasati.netlify.app/](https://bhushanasati.netlify.app/)
+- 👨‍💻 Portfolio Link [https://www.bhushanasati.com/](https://www.bhushanasati.com/)
 
 - 📫 How to reach me **bhushanasati25@gmail.com**
 
