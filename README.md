@@ -1,33 +1,134 @@
-<h1 align="center">Hi 👋, I'm Bhushan Asati</h1>
-<h3 align="center">I’m Software Engineer | AI | ML | DL Enthusiast.</h3>
+<div align="center">
 
-- I’m currently pursuing a Master of Science in Computer Science at Stevens Institute of Technology.
-- Strong intuitions come with strong applied knowledge.
-- Disciplined, time-bound, and works out everything with full dedication and focus.
-- Deep Learning and Machine Learning Enthusiast.
-- In love with Computer Programming and Algorithms.
-- Constant, consistent learner for life.
+# Bhushan Asati
 
-- 👨‍💻 Portfolio Link [https://www.bhushanasati.com/](https://www.bhushanasati.com/)
+### Software Engineer | Distributed Systems · AI/ML Infrastructure · Cloud Computing
 
-- 📫 How to reach me **bhushanasati25@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhushanasati.com-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://www.bhushanasati.com/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushanasati25-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushanasati25)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-bhushanasati25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhushanasati25@gmail.com)
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhushanasati25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhushanasati25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhushanasati25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushanasati25" height="30" width="40" /></a>
-<a href="https://kaggle.com/bhushanasati25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhushanasati25" height="30" width="40" /></a>
-</p>
+---
 
+## About
 
-<h3 align="left">Statatics</h3>
+Software Engineer with a **Master of Science in Computer Science** from **Stevens Institute of Technology** *(December 2025)*, focused on building reliable, production-ready systems at scale.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushanasati25&show_icons=true&locale=en&layout=compact" alt="bhushanasati25" /></p>
+I specialize in **distributed systems**, **cloud infrastructure**, and **applied machine learning** - designing systems that operate under real-world constraints where performance, observability, and fault tolerance matter as much as functionality.
 
+I work at the intersection of backend systems, **Machine Learning**, **Computer Vision**, and **MLOps** - designing infrastructure to train, deploy, and operate models in production. Beyond model development, I care deeply about latency, availability, versioning, monitoring, and deployment safety, ensuring ML systems remain dependable at scale.
 
+I approach engineering with discipline, structure, and **first-principles thinking**. I believe strong intuition is built through strong applied knowledge - earned by understanding how systems behave under load, how they fail, and how they can be improved.
 
-<!---
-bhushanasati25/bhushanasati25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Core Competencies
+
+<div align="center">
+
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-1a1a2e?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design_&_Architecture-1a1a2e?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices_&_Event--Driven_Design-1a1a2e?style=for-the-badge)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-1a1a2e?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/ML_Model_Serving_&_MLOps-1a1a2e?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD_&_DevOps_Automation-1a1a2e?style=for-the-badge)
+![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-1a1a2e?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability_&_Monitoring-1a1a2e?style=for-the-badge)
+![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance_&_Reliability-1a1a2e?style=for-the-badge)
+
+</div>
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>ML / AI</b></td>
+<td>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td><b>Cloud & Infra</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td><b>Backend & Data</b></td>
+<td>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Observability</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Looking For
+
+I'm actively seeking **Software Engineer**, **Backend Engineer**, **ML Infrastructure**, and **Platform Engineer** roles where I can contribute to building systems that operate reliably at scale. I'm particularly interested in teams working on distributed systems, ML infrastructure, cloud-native platforms, and high-throughput data pipelines.
+
+**Open to:** Full-time roles · U.S.-based · Remote or On-site
+
+---
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhushanasati25/)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/bhushanasati09)
+
+⭐ *If you find my work interesting, feel free to connect - always happy to collaborate on impactful engineering challenges.*
+
+</div>
