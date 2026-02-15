@@ -39,15 +39,15 @@ I approach engineering with discipline, structure, and **first-principles thinki
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Distributed_Systems-1a1a2e?style=for-the-badge" alt="Distributed Systems" />
-<img src="https://img.shields.io/badge/System_Design_&_Architecture-1a1a2e?style=for-the-badge" alt="System Design" />
-<img src="https://img.shields.io/badge/Microservices_&_Event--Driven_Design-1a1a2e?style=for-the-badge" alt="Microservices" />
-<img src="https://img.shields.io/badge/Cloud_Infrastructure-1a1a2e?style=for-the-badge" alt="Cloud Infrastructure" />
-<img src="https://img.shields.io/badge/ML_Model_Serving_&_MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />
-<img src="https://img.shields.io/badge/CI/CD_&_DevOps_Automation-1a1a2e?style=for-the-badge" alt="CI/CD" />
-<img src="https://img.shields.io/badge/Performance_Tuning-1a1a2e?style=for-the-badge" alt="Performance Tuning" />
-<img src="https://img.shields.io/badge/Observability_&_Monitoring-1a1a2e?style=for-the-badge" alt="Observability" />
-<img src="https://img.shields.io/badge/Fault_Tolerance_&_Reliability-1a1a2e?style=for-the-badge" alt="Fault Tolerance" />
+[![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-1a1a2e?style=for-the-badge)](https://www.distributed-systems.net/index.php/books/ds4/)
+[![System Design](https://img.shields.io/badge/System_Design_&_Architecture-1a1a2e?style=for-the-badge)](https://github.com/donnemartin/system-design-primer)
+[![Microservices](https://img.shields.io/badge/Microservices_&_Event--Driven_Design-1a1a2e?style=for-the-badge)](https://microservices.io/)
+[![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-1a1a2e?style=for-the-badge)](https://aws.amazon.com/architecture/)
+[![MLOps](https://img.shields.io/badge/ML_Model_Serving_&_MLOps-1a1a2e?style=for-the-badge)](https://ml-ops.org/)
+[![CI/CD](https://img.shields.io/badge/CI/CD_&_DevOps_Automation-1a1a2e?style=for-the-badge)](https://docs.github.com/en/actions)
+[![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-1a1a2e?style=for-the-badge)](https://www.brendangregg.com/linuxperf.html)
+[![Observability](https://img.shields.io/badge/Observability_&_Monitoring-1a1a2e?style=for-the-badge)](https://opentelemetry.io/docs/)
+[![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance_&_Reliability-1a1a2e?style=for-the-badge)](https://sre.google/books/)
 
 </div>
 
@@ -59,56 +59,66 @@ I approach engineering with discipline, structure, and **first-principles thinki
 <tr>
 <td><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/manual/)
+
 </td>
 </tr>
 <tr>
 <td><b>ML / AI</b></td>
 <td>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://docs.opencv.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/docs/latest/index.html)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs)
+
 </td>
 </tr>
 <tr>
 <td><b>Cloud & Infra</b></td>
 <td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://docs.aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/docs)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
+
 </td>
 </tr>
 <tr>
 <td><b>Backend & Data</b></td>
 <td>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/docs/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/documentation/)
+
 </td>
 </tr>
 <tr>
 <td><b>DevOps & Observability</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/docs/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/docs/)
+
 </td>
 </tr>
 </table>
@@ -154,9 +164,9 @@ I approach engineering with discipline, structure, and **first-principles thinki
 
 <div align="center">
 
-<img src="https://github-readme-stats-zeta-red-68.vercel.app/api?username=bhushanasati25&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-zeta-red-68.vercel.app/api?username=bhushanasati25&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars,issues" height="180" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-zeta-red-68.vercel.app/api/top-langs/?username=bhushanasati25&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-zeta-red-68.vercel.app/api/top-langs/?username=bhushanasati25&layout=compact&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook" height="180" alt="Top Languages" />
 
 <br/><br/>
 
