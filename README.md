@@ -30,15 +30,15 @@ I approach engineering with discipline, structure, and **first-principles thinki
 
 <div align="center">
 
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-1a1a2e?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design_&_Architecture-1a1a2e?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices_&_Event--Driven_Design-1a1a2e?style=for-the-badge)
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-1a1a2e?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/ML_Model_Serving_&_MLOps-1a1a2e?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD_&_DevOps_Automation-1a1a2e?style=for-the-badge)
-![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-1a1a2e?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability_&_Monitoring-1a1a2e?style=for-the-badge)
-![Fault Tolerance](https://img.shields.io/badge/Fault_Tolerance_&_Reliability-1a1a2e?style=for-the-badge)
+<img src="https://img.shields.io/badge/Distributed_Systems-1a1a2e?style=for-the-badge" alt="Distributed Systems" />
+<img src="https://img.shields.io/badge/System_Design_&_Architecture-1a1a2e?style=for-the-badge" alt="System Design" />
+<img src="https://img.shields.io/badge/Microservices_&_Event--Driven_Design-1a1a2e?style=for-the-badge" alt="Microservices" />
+<img src="https://img.shields.io/badge/Cloud_Infrastructure-1a1a2e?style=for-the-badge" alt="Cloud Infrastructure" />
+<img src="https://img.shields.io/badge/ML_Model_Serving_&_MLOps-1a1a2e?style=for-the-badge" alt="MLOps" />
+<img src="https://img.shields.io/badge/CI/CD_&_DevOps_Automation-1a1a2e?style=for-the-badge" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Performance_Tuning-1a1a2e?style=for-the-badge" alt="Performance Tuning" />
+<img src="https://img.shields.io/badge/Observability_&_Monitoring-1a1a2e?style=for-the-badge" alt="Observability" />
+<img src="https://img.shields.io/badge/Fault_Tolerance_&_Reliability-1a1a2e?style=for-the-badge" alt="Fault Tolerance" />
 
 </div>
 
@@ -127,7 +127,7 @@ I'm actively seeking **Software Engineer**, **Backend Engineer**, **ML Infrastru
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/bhushanasati25/)
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/bhushanasati09)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bhushanasati09)
 
 ⭐ *If you find my work interesting, feel free to connect - always happy to collaborate on impactful engineering challenges.*
 
