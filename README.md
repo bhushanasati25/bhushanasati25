@@ -18,11 +18,11 @@
 
 Software Engineer with a **Master of Science in Computer Science** from **Stevens Institute of Technology** *(December 2025)*, focused on building reliable, production-ready systems at scale.
 
-I specialize in **distributed systems**, **cloud infrastructure**, and **applied machine learning** — designing systems that operate under real-world constraints where performance, observability, and fault tolerance matter as much as functionality.
+I specialize in **distributed systems**, **cloud infrastructure**, and **applied machine learning** - designing systems that operate under real-world constraints where performance, observability, and fault tolerance matter as much as functionality.
 
-I work at the intersection of backend systems, **Machine Learning**, **Computer Vision**, and **MLOps** — designing infrastructure to train, deploy, and operate models in production. Beyond model development, I care deeply about latency, availability, versioning, monitoring, and deployment safety, ensuring ML systems remain dependable at scale.
+I work at the intersection of backend systems, **Machine Learning**, **Computer Vision**, and **MLOps** - designing infrastructure to train, deploy, and operate models in production. Beyond model development, I care deeply about latency, availability, versioning, monitoring, and deployment safety, ensuring ML systems remain dependable at scale.
 
-I approach engineering with discipline, structure, and **first-principles thinking**. I believe strong intuition is built through strong applied knowledge — earned by understanding how systems behave under load, how they fail, and how they can be improved.
+I approach engineering with discipline, structure, and **first-principles thinking**. I believe strong intuition is built through strong applied knowledge - earned by understanding how systems behave under load, how they fail, and how they can be improved.
 
 ---
 
